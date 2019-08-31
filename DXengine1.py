@@ -9,12 +9,7 @@ import KSengine1
       in value recieve chrono.file(1)
          vertical
         break 
-      Python {py} detected.
-{pip}
-""".format(py=sys.version_info, pip=pip_message )
-
-    print(error, file=sys.stderr)
-    sys.exit(1) 
+    
     start  As 
     
           log = (1)KSengineDD.1
