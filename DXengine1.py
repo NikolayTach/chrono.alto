@@ -6,12 +6,9 @@ import KSengine1
    for </0.121>, </0.115>DXengine1, </1.141>
    print = "Read" 
    print = "Unread"
-      in value recieve chrono.file(1)
+in value recieve chrono.file(1)
          vertical
-        break 
-    
-    start  As 
-    
+break 
           log = (1)KSengineDD.1
       as mode 3# sand
         or Dxengine1 cycle path chrono.file(1), make from Dxengine1 Def revision  
