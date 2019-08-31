@@ -14,11 +14,19 @@ import KSengine1
         or Dxengine1 cycle path chrono.file(1), make from Dxengine1 Def revision  
    value return Dxengine1 chrono.file(1)
  from usr/bin 
-   All 4 cases %444 = DDD
+   All 4 cases
+            %444 = DDD
             %555 = CCC
             %666 = BBB
             %777 = AAA
+            
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 >>>><<<<<<>>><<<<<>><<<>><><<<<<<<<<<<<><>><<<><<<><<<<>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<><<<>
+Python {py} detected.
+{pip}
+""".format(py=sys.version_info, pip=pip_message )
 
+    print(error, file=sys.stderr)
+    sys.exit(1)
+    
    /. read DXengine.py ./
