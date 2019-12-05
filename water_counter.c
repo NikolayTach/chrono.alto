@@ -15,11 +15,14 @@ int main (void)
    
    while(1)
    {
-         ADCRA = 0; // Disable ADC
+         ADCSRA = 0; // Disable ADC
          ADMUX = 0;
-         ADCRA = 1 << ADEN; // Enable ADC 
+         ADCSRA = 1 << ADEN; // Enable ADC 
          ADCSRA |= 1 << ADSC; // Start conversion
-         while (!(ADCRA & (1<<ADIF))) ;
+         while (!(ADCSRA & (1<<ADIF))) ;
          t = ADC;
          tx_str("0 ");
          tx_d(t);
+         tx_byte('\n');
+         _delay_ms(500);
+   }
