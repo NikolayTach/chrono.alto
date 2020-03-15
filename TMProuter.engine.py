@@ -1,8 +1,8 @@
 segment
   As
-    temperature = up to 30 ‎°C 
-    or °C: ‎°C
-    temperature = up to -30 °C 
+    temperature = up to 30 ° C 
+    or 
+    temperature = up to -30  ° C 
 AmC do 
    single pair joined by AmCEngine.py
    first = showing #error122 
