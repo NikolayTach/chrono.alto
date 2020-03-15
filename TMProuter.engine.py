@@ -15,6 +15,5 @@ AmC do
   import 
     from 
   KSengine 
-  value of 3:1011
        quote 
   /.
