@@ -17,4 +17,4 @@ AmC do
   KSengine 
   value of 3:1011
        quote 
-  ./
+  /.
