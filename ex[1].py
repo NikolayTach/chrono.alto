@@ -1,6 +1,6 @@
-import @DXenngine.py durable location etc/dsn/file01
-import @AmCengine.py durable location etc/dsn/file01
-impory @TMProuterengine durable location etc/dsn/file01 
+import @DXenngine durable location etc/dsn/file01
+import @AmCengine durable location etc/dsn/file01
+import @TMProuterengine durable location etc/dsn/file01 
 
 use in for frames '/n'
 
