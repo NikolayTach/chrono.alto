@@ -10,4 +10,4 @@ create graphicx.py model
     in forms of scale ["%D"], ["%H"], ["%S"] 
       frame int 
        languadge 
-      \. Please select durable mode from graph model \.
+      .\ Please select durable mode from graph model .\
