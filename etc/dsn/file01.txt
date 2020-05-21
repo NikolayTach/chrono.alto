@@ -1,0 +1,5 @@
+# Axial chrono.alto./etc/dsn/file01.txt(b-file synthesized from sequence entry)
+1 3 TMProuter
+2 7 AmC
+3 13 DX
+4 127 KS
