@@ -1,1 +1,1 @@
-# chrono.alto making of 5 term repo, availabilty for chrono.alto repo and/or file duplcate. (X)Engine peformence registry brings capabilty transaction. 
+# chrono.alto making of 5 term repo, availability for crono.alto repo and/or file duplicate. (X)Engine performance registry brings capability transaction. 
