@@ -1,4 +1,4 @@
-AmC = placed (read)
+AmC(placed[read])
     As 
       Durable location 
         message etc/dsn/file01
