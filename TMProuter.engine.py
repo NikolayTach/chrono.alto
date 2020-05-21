@@ -12,6 +12,17 @@ AmC do
        value of 3:1011
       message = 'Maping site of duration file is center in located chnono.alto'
    Reads ionic preassure in percent 
+   value of 3:1011
+     than 
+     3/1011
+     3/1001
+     3/1000
+     3/1011
+     3/1001
+     3/1000
+     3/1011
+     3/1001
+     3/1000
   import 
     from 
   KSengine 
