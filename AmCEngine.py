@@ -1,7 +1,8 @@
 import from TMProuterengine
 import from KSengine 
 import from DXengine 
-AmC(placed[read])
+
+AmC(placed)
     As 
       Durable location 
         message etc/dsn/file01
