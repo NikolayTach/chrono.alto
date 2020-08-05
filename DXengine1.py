@@ -1,6 +1,6 @@
-import from KSengine1
-import from AmCengine 
-import from TMProuterengine 
+import KSengine1
+import AmCengine 
+import TMProuterengine 
 
    print = "Center":
    value = c-1/s-2 recieve chrono.file(1) 
