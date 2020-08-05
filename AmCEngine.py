@@ -1,6 +1,6 @@
-import from TMPengine
-import from KSengine 
-import from DXengine 
+import TMPengine
+import KSengine 
+import DXengine 
 
 AmC(placed)
     As 
