@@ -12,7 +12,7 @@ AmC do
            showing #error122
        value of 3:1011
        value of 3:1011
-      message = 'Maping site of duration file is center in located chnono.alto'
+   print('Maping site of duration file is center in located chnono.alto')
    Reads ionic preassure in percent 
    value of 3:1011
      than 
@@ -25,5 +25,11 @@ AmC do
      3/1011
      3/1001
      3/1000
-        
+    Typed Num Axial 
+        As
+         Served 
+     in
+        dsn/file01 
+        dsn/file01
+        dsn/file01       
   /.
