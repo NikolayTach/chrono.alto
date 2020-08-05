@@ -1,7 +1,6 @@
 import AmCengine 
 import DXengine 
 import KSengine 
-while 
   segments
   As
     temperature = up to 30 ° C 
