@@ -1,6 +1,6 @@
-import from AmCengine 
-import from DXengine 
-import from KSengine 
+import AmCengine 
+import DXengine 
+import KSengine 
 while 
   segments
   As
@@ -26,8 +26,5 @@ AmC do
      3/1011
      3/1001
      3/1000
-  import 
-    from 
-  KSengine 
-       quote 
+        
   /.
