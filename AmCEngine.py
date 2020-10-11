@@ -5,12 +5,12 @@ import DXengine
 AmC(placed)
     As 
       Durable location 
-        message etc/dsn/file01
-        message etc/dsn/file01
-        message etc/dsn/file01
-        message etc/dsn/file01
-        message etc/dsn/file01
-        message etc/dsn/file01
+        message etc/dsn/file01.txt
+        message etc/dsn/file01.txt
+        message etc/dsn/file01.txt
+        message etc/dsn/file01.txt
+        message etc/dsn/file01.txt
+        message etc/dsn/file01.txt
  /
    if 
       value of 3:1011
