@@ -29,7 +29,7 @@ AmC do
         As
          Served 
      in
-        dsn/file01.txt 
-        dsn/file01.txt
-        dsn/file01.txt      
+        etc/dsn/file01.txt 
+        etc/dsn/file01.txt
+        etc/dsn/file01.txt      
   /.
