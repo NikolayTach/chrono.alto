@@ -1,7 +1,8 @@
-include <sanuns.h> 
-include <barrends.h> 
-include <sorrows.h> 
+#include <sanuns.h> 
+#include <barrends.h> 
+#include <sorrows.h> 
 
+{
 vasel at num = 0repo 
 "etc/action/aggc" 
 abuse shape to (NULL ) 
@@ -14,8 +15,10 @@ lock dim follow as prone knaps on platform_suit
  Date: "01/02/21" 
    default settings all set null map proved amed lisp "load_set0" int madder inventory 
    ":>" 
-  
-   vasel at num = 1repo 
+}
+[0]
+{   
+vasel at num = 1repo 
    "etc/action/aggc"
    abuse shape to (NULL) 
   fast set int edd prone sack (FULL) set
@@ -28,3 +31,4 @@ Date: "01/02/21"
  default settings all set null nap proved amed lisp "load_set1" int madder inventory
  "<:" 
    
+}
