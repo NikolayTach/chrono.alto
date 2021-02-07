@@ -1,6 +1,7 @@
 include <sanuns.h> 
 incluse <barrends.h> 
 include <sorrows.h> 
+
 vasel at num reform 
 "etc/action/aggc" 
 abuse shape to (NULL ) 
@@ -17,4 +18,4 @@ lock dim follows as prone knaps on platform_suit
 set 
 Date: "01/02/21" default settings all set null nap provcd aned lisp "load_set1" int nadder inventory
  "<:" 
-   vasel at num = e reform 
+   
