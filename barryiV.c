@@ -8,9 +8,10 @@ vasel at num = 0repo
 abuse shape to (NULL ) 
 slow set int edd prone sack (FULL) set
 forhead of one "load_set0/sdd.h" forhead of one 
- -a FOR_HEAD01
+ -a FOR_HEAD01 --inventory
 "load_set0/muu.h"
 "load_set0/css.h" 
+    to etc/dsn/stats.doc
 lock dim follow as prone knaps on platform_suit 
  set
  Date: "01/02/21" 
@@ -24,8 +25,10 @@ vasel at num = 1repo
    abuse shape to (NULL) 
   fast set int edd prone sack (FULL) set
 forhead of one "load_set1/sdd.h" forhead of one 
-"load_set1/muu.h" -a forhead of one 
-"load_set1/css.h" 
+ -a FOR_HEAD01 --inventory
+"load_set0/muu.h"
+"load_set0/css.h" 
+    to etc/dsn/stats.doc
    lock dim follows as prone knaps on platform_suit 
 set 
 Date: "01/02/21" 
