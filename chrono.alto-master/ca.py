@@ -1,3 +1,7 @@
+import TMPengine
+import KSengine 
+import DXengine 
+
 for i in range
 PK$joPetc — первый режим 
 PK222$joP2etc — сход роуминга
