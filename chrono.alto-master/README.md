@@ -13,15 +13,15 @@ chrono.alto/etc/dsn/stats.doc analysis :
 [esp32/8266.UNIT.ASSEMBLY via Espressif's SDK version 1.0.1b](https://github.com/NikolayTach/low_power_voltage_measurement/blob/5f517ef1cf346746f348f02d7dd6ac8623063bfb/tools/esptool.py)
 
 
-inquery_index:2082352
+`inquery_index:2082352`
  
 `Dxengine1.py` роуминг `</0.121>`, `</0.115>`, `</1.141>`
           
           
           
-          ``` Sum
+           Sum
                      3 dir.rags.01 stick 1 and dir.rags.02 
-                         stick : 2 ```
+                         stick : 2 
 
 inquery_index-2082352
 
