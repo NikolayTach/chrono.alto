@@ -1,6 +1,4 @@
-import KSengine1
-import AmCengine 
-import TMProuterengine 
+import from KSengine1
 
    def main():
    value = c-1/s-2 recieve chrono.file(1) 
