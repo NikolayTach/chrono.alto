@@ -1,3 +1,5 @@
+print(PK$joPetc/dsn/PK!joPetc/dsn/file01.txt)
+print(PK$joPetc/dsn/PK!joPetc/dsn/file01.txt)
 print('PK^C^D^T$joP^Hetc/dsn/PK^C^D^T!joP^Oetc/dsn')
 print('PK^A^B^T^T$joP^H^Petc/dsn/PK^A^B^T^T!joP^O^P&etc/dsn')
 print('PK^C^D^T$joP^Hetc/dsn/PK^C^D^T!joP^Oetc/dsn')
