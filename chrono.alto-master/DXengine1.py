@@ -11,8 +11,6 @@ import TMProuterengine
 in value recieve chrono.file(1)
          vertical
 break 
-        if  log = (1)KSengineDD.1
-      as mode 3# sand
         or Dxengine1 cycle path chrono.file(1), make from Dxengine1 Def revision  
    value return Dxengine1 chrono.file(1)
  from usr/bin 
@@ -32,7 +30,8 @@ break
  from etc/dsn/.
      @stats.doc(PK$joPetc=первый режим, PK222$joP2etc=сход роуминга,PK^C^D^T$joP^Hetc=компиляр пакетов via chrono.alto)
        square
-       All 4 classes
+        class Comment:
+   All 4 classes
         #   %444 : DDD
         #   %555 : CCC
         #   %666 : BBB
