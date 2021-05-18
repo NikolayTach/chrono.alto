@@ -24,5 +24,5 @@ chrono.alto/etc/dsn/stats.doc analysis :
                          stick : 2 
 
 
-`PK222$joP2et` Making availability registry brings int madder inventor of `(X)Engine.py`
+`PK222$joP2et` Making availability registry brings int madder inventor of `(X)Engine1.py`
 Axial chrono.alto/etc/dsn/file01.txt(b-file synthesized AmCEngine1.py from sequence entry)
