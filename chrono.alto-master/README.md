@@ -3,7 +3,7 @@
 Making of 5 term repo, availability for crono.alto repo and/or file duplicate. (X)Engine.py performance registry brings capability transaction. 
 ---
 `DXengine1.py npm install`
-`default` settings all set null map proved amed lisp folder "load_set0" int madder inventor
+`default` settings all set null map aimed lisp folder "load_set0" int madder inventor
 
 chrono.alto/etc/dsn/stats.doc analysis :
 `PK$joPetc` — первый режим 
