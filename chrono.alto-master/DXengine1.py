@@ -4,8 +4,8 @@ import from KSengine1
    value = c-1/s-2 recieve chrono.file(1) 
           is making path = 0
    for </0.121>, </0.115>DXengine1, </1.141>
-   print = "Read" 
-   print = "Unread"
+   print = ("Read") 
+   print = ("Unread")
 in value recieve chrono.file(1)
          vertical
 break 
