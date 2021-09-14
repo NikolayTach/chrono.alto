@@ -1,5 +1,5 @@
 import DXengine1
-   print(Center)
+   print('Center')
    value(c-1/s-2) recieve chrono.file(1)
    (MAGMA) R := ReedMullerCode(2,7); print(WeightEnumerator(R));
            if making path(0) 
@@ -16,8 +16,8 @@ import DXengine1
    value return Dxengine1 chrono.file(1)
               base for dim as making path (0)
                                          
-   print(read) 
-   print(unread)
+   print('read') 
+   print('unread')
 
    from 
       Dxengine1 chrono.file(1) reads as value
