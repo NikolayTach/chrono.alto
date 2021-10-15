@@ -36,7 +36,7 @@ fn cell_alignment() {
     println!("{}", table.to_string());
     let expected = "
 +---------------------+---------------------+---------------------+
-|       CODE          |Geno-matric(P^ij)    |   Magnetic coupling |
+|       CODE          |  Geno-matric(P^ij)  |   Magnetic coupling |
 +=================================================================+
 |    DXengine1.py     |       CCC           |                1:10 |
 |---------------------+---------------------+---------------------|
