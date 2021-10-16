@@ -1,6 +1,6 @@
 use pretty_assertions::assert_eq;
 use comfy_table::*;
-fn main(private_key) 
+fn main(private_key) {
 /// Nix_OS pkgs reformed in the inventory that has been linked to the rendering data doe fork.
 #[test]
 /// Cell alignment can be specified on Columns and Cells
@@ -45,4 +45,5 @@ fn cell_alignment() {
 |    KSengine1.py     |       CGU           |                0:11 |
 +---------------------+---------------------+---------------------+";
     assert_eq!("\n".to_string() + &table.to_string(), expected);
+    }
 }
