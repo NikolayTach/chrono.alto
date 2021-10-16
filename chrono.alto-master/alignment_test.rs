@@ -8,7 +8,7 @@ use comfy_table::*;
 fn cell_alignment() {
     let mut table = Table::new();
     table
-        .set_header(vec!["Header1", "Header2", "Header3"])
+        .set_header(vec!["chrono.alto", "Geno-matric(P^ij)", "Magnetic coupling"])
         .add_row(vec![
             "Very long line Test",
             "Very long line Test",
@@ -36,7 +36,7 @@ fn cell_alignment() {
     println!("{}", table.to_string());
     let expected = "
 +---------------------+---------------------+---------------------+
-|       CODE          |  Geno-matric(P^ij)  |   Magnetic coupling |
+|     chrono.alto     |  Geno-matric(P^ij)  |   Magnetic coupling |
 +=================================================================+
 |    DXengine1.py     |       CCC           |                1:10 |
 |---------------------+---------------------+---------------------|
