@@ -12,9 +12,8 @@ chrono.alto/etc/dsn/stats.doc analysis :
 
 [esp32/8266.UNIT.ASSEMBLY via Espressif's SDK version 1.0.1b](https://github.com/NikolayTach/low_power_voltage_measurement/blob/5f517ef1cf346746f348f02d7dd6ac8623063bfb/tools/esptool.py)
 
-![photo1651438553](https://user-images.githubusercontent.com/42199859/166164636-105ad1c9-6d24-449f-8ea2-33b32359e152.jpeg)
-![photo1651438557](https://user-images.githubusercontent.com/42199859/166164640-3df019b0-30b8-43cd-8751-c21ed6666b6c.jpeg)
-
+<img width="200" alt="photo1651438557.jpeg (94.3 kB)" src="https://img.esa.io/uploads/production/attachments/19425/2022/05/02/127519/05083ca7-009c-42a7-9bff-f05e4a0f1ea2.jpeg">
+<img width="200" alt="photo1651438553.jpeg (90.6 kB)" src="https://img.esa.io/uploads/production/attachments/19425/2022/05/02/127519/6419471f-d46d-4a1a-9640-1b8561b6984a.jpeg">
 `inquery_index:2082352`
  
 `Dxengine1.py` роуминг `</0.121>`, `</0.115>`, `</1.141>`
