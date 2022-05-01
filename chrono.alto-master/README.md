@@ -27,7 +27,7 @@ chrono.alto/etc/dsn/stats.doc analysis :
 
 `PK222$joP2et` Making availability registry brings int madder inventory of `(X)Engine1.py`
 Axial chrono.alto/etc/dsn/file01.txt(b-file synthesized AmCEngine1.py from sequence entry)
-`import TMPengine
+```import TMPengine
 import KSengine 
 import DXengine 
 count:()
@@ -42,4 +42,4 @@ print('PK^C^D^T$joP^Hetc/dsn/PK^C^D^T!joP^Oetc/dsn')
 print('PK^A^B^T^T$joP^H^Petc/dsn/PK^A^B^T^T!joP^O^P&etc/dsn')
 print('PK^C^D^T$joP^Hetc/dsn/PK^C^D^T!joP^Oetc/dsn')
 print('PK^A^B^T^T$joP^H^Petc/dsn/PK^A^B^T^T!joP^O^P&etc/dsn')
-f= open ('chrono.altoLOG.txt','w')`
+f= open ('chrono.altoLOG.txt','w')
