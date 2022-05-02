@@ -46,7 +46,8 @@ print('PK^A^B^T^T$joP^H^Petc/dsn/PK^A^B^T^T!joP^O^P&etc/dsn')
 f= open ('chrono.altoLOG.txt','w')
 ````
 ---
-[Подержите дет санатории в Японии, Хокайдо](http://www.toseikai.net/) \\
-[Support and fund the children ward in Japan](http://www.toseikai.net/)
+[Подержите дет санатории в Японии, Хокайдо](http://www.toseikai.net/) 
+\\\
+[Support and fund the children ward in Japan, Hokkaido](http://www.toseikai.net/)
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Лицензия Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"></a>.
