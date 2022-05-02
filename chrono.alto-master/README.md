@@ -15,6 +15,8 @@ chrono.alto/etc/dsn/stats.doc analysis :
 <img width="200" alt="photo1651438557.jpeg (94.3 kB)" src="https://img.esa.io/uploads/production/attachments/19425/2022/05/02/127519/05083ca7-009c-42a7-9bff-f05e4a0f1ea2.jpeg">
 <img width="200" alt="photo1651438553.jpeg (90.6 kB)" src="https://img.esa.io/uploads/production/attachments/19425/2022/05/02/127519/6419471f-d46d-4a1a-9640-1b8561b6984a.jpeg">
 
+`key-name:+TdD6RR5VY0TY1zhhcQHi4jXucko0u0N9zX5CJuNdeo=` 
+
 `inquery_index:2082352`
  
 `Dxengine1.py` роуминг `</0.121>`, `</0.115>`, `</1.141>`
