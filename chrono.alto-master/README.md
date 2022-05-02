@@ -27,6 +27,20 @@ chrono.alto/etc/dsn/stats.doc analysis :
                      3 dir.rags.01 stick 1 and dir.rags.02 
                          stick : 2 
 
+```  println!("{}", table.to_string());
+    let expected = "
++---------------------+---------------------+---------------------+
+|     chrono.alto     |  Geno-matric(P^ij)  |   Magnetic coupling |
++=================================================================+
+|    DXengine1.py     |       CCC           |                1:10 |
+|---------------------+---------------------+---------------------|
+|    TMPengine.py     |       UCA           |                0:01 |
+|---------------------+---------------------+---------------------|
+|    KSengine1.py     |       CGU           |                0:11 |
++---------------------+---------------------+---------------------+";
+    assert_eq!("\n".to_string() + &table.to_string(), expected);
+  ```
+    
 
 `PK222$joP2et` Making availability registry brings int madder inventory of `(X)Engine1.py`
 Axial chrono.alto/etc/dsn/file01.txt(b-file synthesized AmCEngine1.py from sequence entry)
