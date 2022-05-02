@@ -65,5 +65,6 @@ f= open ('chrono.altoLOG.txt','w')
 [Подержите дет санатории в Японии, Хокайдо](http://www.toseikai.net/) 
 \\\
 [Support and fund the children's hospital ward in Japan, Hokkaido](http://www.toseikai.net/)
-
+\\\
+[達けってくださいのこども医療法人 稲生会](http://www.toseikai.net/)
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Лицензия Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"></a>.
