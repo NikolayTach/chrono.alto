@@ -61,7 +61,9 @@ print('PK^C^D^T$joP^Hetc/dsn/PK^C^D^T!joP^Oetc/dsn')
 print('PK^A^B^T^T$joP^H^Petc/dsn/PK^A^B^T^T!joP^O^P&etc/dsn')
 f= open ('chrono.altoLOG.txt','w')
 ````
----
+компиляция `public-key`
+`diff --git a/chrono.alto-master/public-key b/chrono.alto-master/public-key`
+
 [Подержите дет санатории в Японии, Хокайдо](http://www.toseikai.net/) 
 \\\
 [Support and fund the children's hospital ward in Japan, Hokkaido](http://www.toseikai.net/)
