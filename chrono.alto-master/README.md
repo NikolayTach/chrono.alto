@@ -1,8 +1,10 @@
 ## Intro to chrono.alto 
 <img width="60" alt="photo1651438557.jpeg (94.3 kB)" src="https://raw.githubusercontent.com/NikolayTach/chrono.alto/main/chrono.alto-master/cisco_button_icon_151865.png">
 Making of 5 term repo, availability for crono.alto repo and/or file duplicate. (X)Engine.py performance registry brings capability transaction. 
+
 ---
 `DXengine1.py npm install`
+
 `default` settings all set null map aimed lisp folder "load_set0" int madder inventor
 
 chrono.alto/etc/dsn/stats.doc analysis :
