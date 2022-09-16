@@ -3,7 +3,6 @@ import DXengine1
    value(c-1/s-2) recieve chrono.file(1)
    (MAGMA) R := ReedMullerCode(2,7); print(WeightEnumerator(R));
            if making path(0) 
-   then
     from
         DXengine1 chrono.file(1) reads as (f) in value 
     print(read)
