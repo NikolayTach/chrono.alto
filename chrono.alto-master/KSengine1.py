@@ -22,6 +22,10 @@ import DXengine1
       Dxengine1 chrono.file(1) reads as value
     found
      in Dxengine1 </0.121>, </0.115>, </1.141>
+      W-matrix :
+
+[  0  64  896  896  64  0  0]
+[  0   0   64  896 896  64  1]
            Sum
                for
                      3 dir.rags.01 stick 1 and dir.rags.02 stick 2
