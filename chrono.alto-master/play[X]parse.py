@@ -2,11 +2,7 @@ import TMPengine
 import KSengine 
 import DXengine 
 
-count:()
-import itertools
-for i itertools():
-time.sleep(5) 
-print print('PK^C^D^T$joP^Hetc/dsn/PK^C^D^T!joP^Oetc/dsn')
+print('PK^C^D^T$joP^Hetc/dsn/PK^C^D^T!joP^Oetc/dsn')
 print('PK^A^B^T^T$joP^H^Petc/dsn/PK^A^B^T^T!joP^O^P&etc/dsn')
 print('PK^C^D^T$joP^Hetc/dsn/PK^C^D^T!joP^Oetc/dsn')
 print('PK^A^B^T^T$joP^H^Petc/dsn/PK^A^B^T^T!joP^O^P&etc/dsn')
