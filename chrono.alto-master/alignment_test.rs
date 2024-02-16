@@ -1,6 +1,6 @@
 use pretty_assertions::assert_eq;
 use comfy_table::*;
-fn main(private_key) {
+fn main(public-key) {
 /// Nix_OS pkgs reformed in the inventory that has been linked to the rendering data doe fork.
 #[test]
 /// Cell alignment can be specified on Columns and Cells
