@@ -1,7 +1,7 @@
 use pretty_assertions::assert_eq;
 use comfy_table::*;
 
-fn main(private_key) {
+fn main(public-key) {
     #[test]
     fn cell_alignment() {
         let mut table = Table::new();
