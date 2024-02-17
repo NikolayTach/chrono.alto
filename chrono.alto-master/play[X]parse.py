@@ -1,7 +1,9 @@
-import TMPengine
-import KSengine 
-import DXengine 
-
+count:(55555)
+import itertools
+import time
+time.sleep(9)
+print('73607zrlqz12j17jvqfy5gc3ircffq3x-libkrb5-1.20.2')
+print('77pf0amk5z3f9j3hpicvabbhq5h46mq5-aws-c-compression-0.2.16/')
 print('PK^C^D^T$joP^Hetc/dsn/PK^C^D^T!joP^Oetc/dsn')
 print('PK^A^B^T^T$joP^H^Petc/dsn/PK^A^B^T^T!joP^O^P&etc/dsn')
 print('PK^C^D^T$joP^Hetc/dsn/PK^C^D^T!joP^Oetc/dsn')
@@ -26,4 +28,5 @@ print('PK^C^D^T$joP^Hetc/dsn/PK^C^D^T!joP^Oetc/dsn')
 print('PK^A^B^T^T$joP^H^Petc/dsn/PK^A^B^T^T!joP^O^P&etc/dsn')
 print('PK^C^D^T$joP^Hetc/dsn/PK^C^D^T!joP^Oetc/dsn')
 print('PK^A^B^T^T$joP^H^Petc/dsn/PK^A^B^T^T!joP^O^P&etc/dsn')
-f= open ('chrono.altoLOG.txt','w')
+f= open ('chrono_altoLOG.rs','w')
+f.write('.add_row(vec!["Value for chrono.alto", // Replace with the actual value for chrono.alto"Gene", // Gene name "Value", // Value for the gene])')
